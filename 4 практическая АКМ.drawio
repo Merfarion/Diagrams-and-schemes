@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:02:40.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Cjoq4u9uAPWdLodD-vrJ" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:05:05.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="urYfYcvYW2iVgX7MCNfD" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SPC90-Vw6357-PJYSrUA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="SPC90-Vw6357-PJYSrUA-1" target="SPC90-Vw6357-PJYSrUA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-1" value="Студент&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-1" value="а: Студент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="SPC90-Vw6357-PJYSrUA-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-6" value="Учебный курс" style="html=1;" vertex="1" parent="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-6" value="b: Учебный курс" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
