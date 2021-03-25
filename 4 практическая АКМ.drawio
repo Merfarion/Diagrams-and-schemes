@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T20:14:15.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QX60GMAM3fMRFBQqylvO" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T20:17:23.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pHeMOoPjtw9-1-kVMz_z" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="460" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="383" dy="623" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,18 @@
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-6" value="Учебный курс" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="416" y="475" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-8" value="&lt;div&gt;Запрос списка (истории)&lt;/div&gt;&lt;div&gt;&amp;nbsp;семинаров курса&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeWidth=1;exitX=0.999;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="SPC90-Vw6357-PJYSrUA-7" parent="1" source="SPC90-Vw6357-PJYSrUA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="455" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="455" y="455" />
+              <mxPoint x="455" y="475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
