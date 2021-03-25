@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:01:44.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="W4Kre_DP1Ng6OKwfn7uE" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:02:40.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Cjoq4u9uAPWdLodD-vrJ" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="657" dy="1069" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="SPC90-Vw6357-PJYSrUA-12" value="Запись на курс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="88" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-13" value="Сообщение о результате" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-13" value="Сообщение о результате попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="268" y="496" width="112" height="20" as="geometry" />
         </mxCell>
       </root>
