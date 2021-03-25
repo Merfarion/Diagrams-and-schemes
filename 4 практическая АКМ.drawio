@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:33:26.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="LX5OCyTfggvzX4SED4ao" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:34:59.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="b577-sNGa0zC8LnW5AbV" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="813" dy="435" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-28" value="d: Локальная БД" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="917" y="821" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="396" y="921" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
