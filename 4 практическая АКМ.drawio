@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:13:36.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8VLYPNejPBbEBkEBlXH3" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:33:26.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="LX5OCyTfggvzX4SED4ao" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,18 @@
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-24" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;2: Запрос списка (истории)&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&amp;nbsp;семинаров курса&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="165" width="143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-25" value="а: Студент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="811" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-26" value="b: Приложение" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="821" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-27" value="c: Серверная БД" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="821" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-28" value="d: Локальная БД" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="917" y="821" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
