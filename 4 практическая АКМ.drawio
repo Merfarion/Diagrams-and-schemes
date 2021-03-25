@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:07:14.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AEGJCV3Dzr2jj09uC198" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:13:36.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8VLYPNejPBbEBkEBlXH3" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
             <mxPoint x="1072" y="430.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-19" value="Запись на курс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-19" value="1:Запись на курс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="923" y="407" width="88" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-21" value="" style="endArrow=classic;html=1;strokeWidth=1;dashed=1;" edge="1" parent="1">
@@ -88,8 +88,22 @@
             <mxPoint x="853" y="526" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-22" value="Сообщение о результате попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-22" value="3: Сообщение о результате попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="729" y="391" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-23" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.628;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SPC90-Vw6357-PJYSrUA-15" target="SPC90-Vw6357-PJYSrUA-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763" y="440" as="sourcePoint" />
+            <mxPoint x="903" y="256" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="852" y="235" />
+              <mxPoint x="873" y="213" />
+              <mxPoint x="895" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPC90-Vw6357-PJYSrUA-24" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;2: Запрос списка (истории)&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&amp;nbsp;семинаров курса&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="165" width="143" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
