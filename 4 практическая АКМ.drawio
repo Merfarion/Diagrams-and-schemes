@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T11:47:39.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qq_4nEKotNdXunXJTsdj" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T12:00:53.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="TZC5HWC-9FKdJukxYDxT" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="967" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,8 +431,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsNFyeK46Jh9DSq6bKaL-63" value="1: Нажатие" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1567" y="1287" width="112" height="20" as="geometry" />
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-63" value="1: Нажатие на &quot;Настройки&quot;&lt;br&gt;3: Ввод кода группы&lt;br&gt;10:Нажатие на вкладку &quot;Расписание&quot;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1588" y="1333" width="253" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-64" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1563" y="1387" as="sourcePoint" />
+            <mxPoint x="1563" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-65" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1504" y="1333" as="sourcePoint" />
+            <mxPoint x="1504" y="1388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-66" value="2: Открытие вкладки &quot;Настройки&quot;&lt;br&gt;14: Открытие расписания" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1293" y="1350" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-69" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1461" y="1149" as="sourcePoint" />
+            <mxPoint x="1399" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-70" value="4: Отправка кода группы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1282" y="1113" width="159" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-72" value="5: Запрос списка групп&lt;br&gt;6:Запрос списка расписаний" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="887" width="183" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
