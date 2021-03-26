@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T12:00:53.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="TZC5HWC-9FKdJukxYDxT" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T12:06:51.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="UFh0r2jlr9KDqakaBML8" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1783" dy="967" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="677" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wsNFyeK46Jh9DSq6bKaL-51" value="d: Локальная БД" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="960" width="110" height="50" as="geometry" />
+          <mxGeometry x="1731" y="963" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wsNFyeK46Jh9DSq6bKaL-52" value="c: Серверная БД" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="1345" y="960" width="110" height="50" as="geometry" />
@@ -422,12 +422,12 @@
         </mxCell>
         <mxCell id="wsNFyeK46Jh9DSq6bKaL-62" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.628;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1666.5" y="960" as="sourcePoint" />
-            <mxPoint x="1708.08" y="961.6500000000001" as="targetPoint" />
+            <mxPoint x="1768.5" y="961.35" as="sourcePoint" />
+            <mxPoint x="1810.08" y="963.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1666" y="935" />
-              <mxPoint x="1687" y="913" />
-              <mxPoint x="1709" y="925" />
+              <mxPoint x="1768" y="936.35" />
+              <mxPoint x="1789" y="914.35" />
+              <mxPoint x="1811" y="926.35" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -446,8 +446,8 @@
             <mxPoint x="1504" y="1388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsNFyeK46Jh9DSq6bKaL-66" value="2: Открытие вкладки &quot;Настройки&quot;&lt;br&gt;14: Открытие расписания" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="1350" width="210" height="20" as="geometry" />
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-66" value="2: Открытие вкладки &quot;Настройки&quot;&lt;br&gt;9: Уведомление о статусе расписания&lt;br&gt;14: Открытие расписания" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1258" y="1350" width="245" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wsNFyeK46Jh9DSq6bKaL-69" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -460,6 +460,42 @@
         </mxCell>
         <mxCell id="wsNFyeK46Jh9DSq6bKaL-72" value="5: Запрос списка групп&lt;br&gt;6:Запрос списка расписаний" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1301" y="887" width="183" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-73" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1508" y="966" as="sourcePoint" />
+            <mxPoint x="1647" y="966" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-74" value="7: Загрузка расписания" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1488" y="940" width="184" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-75" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsNFyeK46Jh9DSq6bKaL-52" target="wsNFyeK46Jh9DSq6bKaL-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1197" as="sourcePoint" />
+            <mxPoint x="1280" y="1147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-76" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1706" y="1056" as="sourcePoint" />
+            <mxPoint x="1594" y="1148.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-77" value="8: Статус загрузки&lt;br&gt;13: Нужное расписание" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="1077" width="167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-78" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1631" y="1164" as="sourcePoint" />
+            <mxPoint x="1744" y="1069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-79" value="11: Запрос в ЛБД" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1691" y="1117" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-80" value="13: Запрос списка скачанных расписаний" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="884" width="153" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
