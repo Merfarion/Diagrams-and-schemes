@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T10:41:50.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HRub2r79qZi57-80XHuw" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T10:47:24.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hPJ6pnnI_Z6CgxNRrV-X" version="14.5.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="657" dy="1069" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="880" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,13 +58,13 @@
         <mxCell id="SPC90-Vw6357-PJYSrUA-12" value="Запись на курс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="351" y="492" width="88" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-13" value="Сообщение о результате попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-13" value="&amp;nbsp;Результат попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="294" y="395" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-14" value="а: Студент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1168" y="520" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-15" value="b: Учебный курс" style="html=1;" parent="1" vertex="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-15" value="с: Учебный курс" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="1128" y="251" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-17" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SPC90-Vw6357-PJYSrUA-14" target="SPC90-Vw6357-PJYSrUA-15" edge="1">
@@ -73,7 +73,7 @@
             <mxPoint x="1116" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-18" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="SPC90-Vw6357-PJYSrUA-15" edge="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-18" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="SPC90-Vw6357-PJYSrUA-15" edge="1" source="SPC90-Vw6357-PJYSrUA-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="491" as="sourcePoint" />
             <mxPoint x="1375" y="421.98" as="targetPoint" />
@@ -82,14 +82,14 @@
         <mxCell id="SPC90-Vw6357-PJYSrUA-19" value="1:Запись на курс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1226" y="398" width="88" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-21" value="" style="endArrow=classic;html=1;strokeWidth=1;dashed=1;" parent="1" edge="1">
+        <mxCell id="SPC90-Vw6357-PJYSrUA-21" value="" style="endArrow=classic;html=1;strokeWidth=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="SPC90-Vw6357-PJYSrUA-14" source="wsNFyeK46Jh9DSq6bKaL-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1156" y="304" as="sourcePoint" />
+            <mxPoint x="1160" y="458" as="sourcePoint" />
             <mxPoint x="1156" y="517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPC90-Vw6357-PJYSrUA-22" value="3: Сообщение о результате попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1032" y="382" width="112" height="20" as="geometry" />
+        <mxCell id="SPC90-Vw6357-PJYSrUA-22" value="4: Сообщение о результате попытки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1004" y="476" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SPC90-Vw6357-PJYSrUA-23" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.628;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SPC90-Vw6357-PJYSrUA-15" target="SPC90-Vw6357-PJYSrUA-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,6 +140,18 @@
         </mxCell>
         <mxCell id="wsNFyeK46Jh9DSq6bKaL-6" value="Статус подготовленности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="384" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-7" value="b: Слушатель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1018" y="347" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-9" value="" style="endArrow=classic;html=1;strokeWidth=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPC90-Vw6357-PJYSrUA-15" target="wsNFyeK46Jh9DSq6bKaL-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1168.0000000000002" y="466" as="sourcePoint" />
+            <mxPoint x="1164" y="524.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsNFyeK46Jh9DSq6bKaL-10" value="3: Статус подготовленности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="988" y="297" width="101" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
