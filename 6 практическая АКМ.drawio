@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T16:03:33.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Hzfz67k17RP_d5s3GHuN" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T16:08:48.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="iMj0wT0m3vkFJXoeK2Gp" version="14.5.8" type="github">
   <diagram id="lJq0QXQkuV6c2PPlQ0H0" name="Page-1">
-    <mxGraphModel dx="2146" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="33vNv-W3eEc7iZOF4a62-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="260" y="610" width="1170" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="33vNv-W3eEc7iZOF4a62-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33vNv-W3eEc7iZOF4a62-1" value="Проверка на наличие расписания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33vNv-W3eEc7iZOF4a62-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33vNv-W3eEc7iZOF4a62-2" value="Ожидание проверки на наличие группы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33vNv-W3eEc7iZOF4a62-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33vNv-W3eEc7iZOF4a62-3" value="Ввод кода группы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="33vNv-W3eEc7iZOF4a62-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -28,13 +28,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="33vNv-W3eEc7iZOF4a62-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33vNv-W3eEc7iZOF4a62-8" value="Отклонение загрузки расписания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33vNv-W3eEc7iZOF4a62-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33vNv-W3eEc7iZOF4a62-9" value="Подтверждения загрузки расписания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="827" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33vNv-W3eEc7iZOF4a62-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33vNv-W3eEc7iZOF4a62-10" value="Загрузка текущего расписания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
