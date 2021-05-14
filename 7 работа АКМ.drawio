@@ -1,17 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T15:38:06.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cmS6mTSggPw6MxxL42nb" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T15:40:11.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FzDjF9Tifa7-7qTlq1EE" version="14.6.6" type="github">
   <diagram id="1PJLIMdQQyDizknO6jMs" name="Page-1">
-    <mxGraphModel dx="733" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-6" value="Приложение" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="430" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="pqS2I7GNvxFUZACfqXXf-1" value="Настройки " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="360" y="170" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pqS2I7GNvxFUZACfqXXf-2" value="Начальное окно" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="120" height="70" as="geometry" />
+          <mxGeometry x="220" y="260" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pqS2I7GNvxFUZACfqXXf-5" value="Расписание" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="100" height="50" as="geometry" />
+          <mxGeometry x="360" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-8" value="Приложение" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-9" value="Приложение" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="320" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
