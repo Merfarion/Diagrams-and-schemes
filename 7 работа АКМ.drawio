@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T15:42:15.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Tz9Zbkt7i3INUo3yq9rs" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T15:47:24.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="S1nfv48wRipfSKp75DND" version="14.6.6" type="github">
   <diagram id="1PJLIMdQQyDizknO6jMs" name="Page-1">
     <mxGraphModel dx="1502" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-14" value="Локальная БД" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="310" width="295" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-11" value="Список расписаний" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="780" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-13" value="Серверная БД" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="695" y="75" width="295" height="205" as="geometry" />
+        </mxCell>
         <mxCell id="pqS2I7GNvxFUZACfqXXf-6" value="Приложение" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="200" y="110" width="430" height="360" as="geometry" />
         </mxCell>
@@ -16,11 +25,8 @@
         <mxCell id="pqS2I7GNvxFUZACfqXXf-5" value="Расписание" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pqS2I7GNvxFUZACfqXXf-8" value="Серверная БД" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="780" y="80" width="320" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="pqS2I7GNvxFUZACfqXXf-9" value="Локальная БД" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="780" y="380" width="320" height="240" as="geometry" />
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-10" value="Список расписаний&#xa;вуза" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="770" y="140" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
