@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T15:18:46.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.6" etag="9J-1T64TX1TFINKpbFXA" type="github"><diagram id="1PJLIMdQQyDizknO6jMs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-14T15:38:06.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cmS6mTSggPw6MxxL42nb" version="14.6.6" type="github">
+  <diagram id="1PJLIMdQQyDizknO6jMs" name="Page-1">
+    <mxGraphModel dx="733" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-1" value="Настройки " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-2" value="Начальное окно" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pqS2I7GNvxFUZACfqXXf-5" value="Расписание" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
