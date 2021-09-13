@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T18:07:47.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="J6PyxB536GPkcv_qHy9U" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T18:18:10.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7inHwf2mrwYM3YQirQhx" version="14.8.3" type="github">
   <diagram id="W5JkKnaNi3M0iucoaM6a" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -61,31 +61,31 @@
         <mxCell id="LExB75-Qr8U2OTZdNFjI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="560" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExB75-Qr8U2OTZdNFjI-17" value="Учитывать стоянки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LExB75-Qr8U2OTZdNFjI-17" value="Учесть количество свободных мест" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LExB75-Qr8U2OTZdNFjI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExB75-Qr8U2OTZdNFjI-19" value="Учитывать стоянки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LExB75-Qr8U2OTZdNFjI-19" value="Заключить договор" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LExB75-Qr8U2OTZdNFjI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="560" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExB75-Qr8U2OTZdNFjI-21" value="Учитывать стоянки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LExB75-Qr8U2OTZdNFjI-21" value="Выдать квитанцию" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LExB75-Qr8U2OTZdNFjI-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="560" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExB75-Qr8U2OTZdNFjI-23" value="Учитывать стоянки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LExB75-Qr8U2OTZdNFjI-23" value="Учесть оплату" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LExB75-Qr8U2OTZdNFjI-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LExB75-Qr8U2OTZdNFjI-25" value="Учитывать стоянки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LExB75-Qr8U2OTZdNFjI-25" value="Присвоение гаражного номера" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="575" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LExB75-Qr8U2OTZdNFjI-26" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="LExB75-Qr8U2OTZdNFjI-24" target="LExB75-Qr8U2OTZdNFjI-7">
