@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T07:37:10.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="R1_yiagC0uDGIuOqonpg" version="15.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T07:48:56.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="GwunMw_qSsla_ME9UPRe" version="15.2.4" type="github">
   <diagram id="24gW2aaC1v7GGiUZ1pMK" name="Page-1">
     <mxGraphModel dx="2858" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
           <mxGeometry y="26" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wk1zh_JFjW3oBxZrR2lf-57" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="910" y="450" width="140" height="60" as="geometry" />
+          <mxGeometry x="880" y="420" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wk1zh_JFjW3oBxZrR2lf-58" value="Прототипы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="wk1zh_JFjW3oBxZrR2lf-57" vertex="1">
           <mxGeometry width="140" height="46" as="geometry" />
@@ -294,10 +294,10 @@
           <mxGeometry x="-530" y="270" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uil84AzYUFcc-cu5vtHI-22" value="Рекламщики" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Uil84AzYUFcc-cu5vtHI-21">
-          <mxGeometry width="140" height="46" as="geometry" />
+          <mxGeometry width="140" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Uil84AzYUFcc-cu5vtHI-25" value="Сотрудники&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Uil84AzYUFcc-cu5vtHI-22">
-          <mxGeometry y="26" width="140" height="20" as="geometry" />
+        <mxCell id="Uil84AzYUFcc-cu5vtHI-25" value="Сотрудники&lt;br&gt;Аналитический отдел" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Uil84AzYUFcc-cu5vtHI-22">
+          <mxGeometry y="26" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uil84AzYUFcc-cu5vtHI-26" value="" style="endArrow=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uil84AzYUFcc-cu5vtHI-18" target="wk1zh_JFjW3oBxZrR2lf-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -391,6 +391,9 @@
             <mxPoint y="300" as="sourcePoint" />
             <mxPoint x="50" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Uil84AzYUFcc-cu5vtHI-53" value="Консоль прошлого поколения " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="880" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
