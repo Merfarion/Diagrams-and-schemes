@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:24:27.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YCngFfLodlfiGcGp9J9F" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-19T16:50:24.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="dXJhTdy9l6KUuZXLtCSm" version="15.2.9" type="github">
   <diagram id="-OPA52gdBElvR5p007l_" name="Page-1">
-    <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,13 +189,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6iu_InG_KhibuN6My5aO-1" value="Целевая аудитория" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="740" width="140" height="100" as="geometry" />
+          <mxGeometry x="1470" y="630" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6iu_InG_KhibuN6My5aO-2" value="Отдел рекламы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="840" width="140" height="100" as="geometry" />
+          <mxGeometry x="1260" y="730" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6iu_InG_KhibuN6My5aO-3" value="Инвесторы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1000" width="140" height="100" as="geometry" />
+          <mxGeometry x="1410" y="890" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
