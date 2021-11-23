@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T15:29:34.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.6.8" etag="haIJ5l8WFiAx0_23gKHY" type="github"><diagram id="LY45CWP8MYa_v7S1A5Th">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-23T15:43:02.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="DPQNRCPWFLZYolx-DteC" version="15.6.8" type="github">
+  <diagram id="LY45CWP8MYa_v7S1A5Th" name="Page-1">
+    <mxGraphModel dx="3685" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z94Kni9D6emitr1n3o4W-1" value="Генеральный директор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-2" value="Коммерческий директор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-3" value="Директор по изданиям" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-4" value="Исполнительный директор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-5" value="Финансовый директор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-6" value="Директор по персоналу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-7" value="Коммерческий отдел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-8" value="Отдел логистики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-9" value="Отдел маркетинга" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-10" value="Типография" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-11" value="Редакторско-издательский отдел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-12" value="Типография" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-13" value="ИТ-отдел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-14" value="Административно-хозяйственный отдел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-15" value="Отдел безопасности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-16" value="Финансовый отдел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-17" value="Бухгалтерия" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-18" value="Юридический отдел" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-19" value="Управление персоналом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z94Kni9D6emitr1n3o4W-20" value="Отдел по управлению кадрами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
