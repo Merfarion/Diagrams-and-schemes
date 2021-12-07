@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T10:32:02.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gZG7f3cswZYMW9XZPag0" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T10:39:09.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bD1wqaqpnw9ST0ZyrdXE" version="15.9.1" type="github">
   <diagram id="kLGH8_wrRS2nDSFc4sI2" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -445,7 +445,7 @@
         <mxCell id="j8icqUQ1kfynVK54_Jyx-102" value="Получить экспертное заключение по проектным работам&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1330" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="j8icqUQ1kfynVK54_Jyx-107" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j8icqUQ1kfynVK54_Jyx-101" target="j8icqUQ1kfynVK54_Jyx-102">
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-107" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j8icqUQ1kfynVK54_Jyx-101" target="j8icqUQ1kfynVK54_Jyx-102">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1570" y="1410" as="sourcePoint" />
             <mxPoint x="1620" y="1360" as="targetPoint" />
@@ -478,7 +478,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8icqUQ1kfynVK54_Jyx-111" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j8icqUQ1kfynVK54_Jyx-100">
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-111" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#CC0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j8icqUQ1kfynVK54_Jyx-100">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1450" y="1220" as="sourcePoint" />
             <mxPoint x="1820" y="1290" as="targetPoint" />
@@ -486,6 +486,54 @@
               <mxPoint x="1820" y="1190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-112" value="Экспертное заключение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-113" value="Проектная работа" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1168" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-114" value="Результат проверки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-116" value="Проектная работа" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-117" value="Экспертное заключение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="940" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-118" value="Акт о принятии работы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="850" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-119" value="Акт о выполненных работах" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-120" value="Требования к заказу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-121" value="Список материалов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-122" value="Список материалов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-123" value="Чек на оплату выполненной работы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-124" value="Чек на оплату выполненной работы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-125" value="Требования к заказу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-126" value="Требования к заказу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-127" value="Акт о доставке материалов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-128" value="Акт о доставке материалов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1440" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
