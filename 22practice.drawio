@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T09:38:06.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RHRlLFIqk6KrA2FY2Ijl" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T09:40:59.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Rs3L5A_GRik4U8-bIuQ0" version="15.9.1" type="github">
   <diagram id="kLGH8_wrRS2nDSFc4sI2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="530" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j8icqUQ1kfynVK54_Jyx-3" value="Заказчик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j8icqUQ1kfynVK54_Jyx-4" value="Строительный магазин" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j8icqUQ1kfynVK54_Jyx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j8icqUQ1kfynVK54_Jyx-4" target="j8icqUQ1kfynVK54_Jyx-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -36,6 +36,18 @@
             <mxPoint x="660" y="400" as="sourcePoint" />
             <mxPoint x="610" y="325" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-9" value="Требования к заказу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-10" value="Акт о доставке материалов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-11" value="Список материалов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8icqUQ1kfynVK54_Jyx-12" value="Чек на оплату выполненной работы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
