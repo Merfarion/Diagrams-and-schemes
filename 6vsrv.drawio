@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T18:47:18.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="7P_NWl6PTWHCZlknDRQC" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T18:49:39.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="IF8polYIkxR_bbSI3Oow" version="15.9.4" type="github">
   <diagram id="zSLjtNnQ2xRo0NQv_nli" name="Page-1">
     <mxGraphModel dx="460" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -166,6 +166,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="720" as="sourcePoint" />
             <mxPoint x="360" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-37" value="Вывод(i,&lt;br&gt;AT[i], BT[i],&lt;br&gt;WT[i], GT[i])" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IKjFwzwTG2LaJm6JJdIb-35" target="IKjFwzwTG2LaJm6JJdIb-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="190" as="sourcePoint" />
+            <mxPoint x="760" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-39" value="Конец цикла E" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="285" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IKjFwzwTG2LaJm6JJdIb-37" target="IKjFwzwTG2LaJm6JJdIb-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="410" as="sourcePoint" />
+            <mxPoint x="730" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-41" value="Вывод(Avg_wt)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IKjFwzwTG2LaJm6JJdIb-39" target="IKjFwzwTG2LaJm6JJdIb-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="400" as="sourcePoint" />
+            <mxPoint x="670" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-43" value="return" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKjFwzwTG2LaJm6JJdIb-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IKjFwzwTG2LaJm6JJdIb-41" target="IKjFwzwTG2LaJm6JJdIb-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="530" as="sourcePoint" />
+            <mxPoint x="710" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
